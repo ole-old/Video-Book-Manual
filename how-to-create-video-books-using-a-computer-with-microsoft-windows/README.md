@@ -29,9 +29,9 @@ When you finish your click and drag selection of the screen, Media Encoder will 
 <a href="http://www.flickr.com/photos/64516474@N05/8619912574/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8391/8619912574_521c4baed7.jpg" width="500" height="391" alt="coordinates-acquired"></a>
 
 Now it's time to choose a name for the file that your Video Book will be known as.
-In the example below I've chosen to name the file *Kevins-Birthday-Book.wmv* and it will be save to my *Desktop* when the recording is finished. Click *next* to proceed when you are satisfied with your file name.
+In the example below I've chosen to name the file *Peter-Rabbit.wmv* and it will be save to my *Desktop* when the recording is finished. Click *next* to proceed when you are satisfied with your file name.
 
-<a href="http://www.flickr.com/photos/64516474@N05/8618706779/" title="file-name by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8123/8618706779_6d5c36f6c1.jpg" width="500" height="392" alt="file-name"></a>
+<a href="http://www.flickr.com/photos/64516474@N05/8618821019/" title="file-name by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8245/8618821019_49f695d701.jpg" width="500" height="389" alt="file-name"></a>
 
 Now it's time to choose the quality of the video book you will record.  Higher quality takes up more space on the disk but the text is more readable while lower quality video takes up less space on the disk but small text can be hard to read.  You will have to make a judgement call on which video quality setting is right for your video book.  I
 
