@@ -36,6 +36,7 @@ In screen shot below, I've selected just the portion of the screen that the book
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619794914/" title="click-and-drag-to-select by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8394/8619794914_9617294054.jpg" width="500" height="375" alt="click-and-drag-to-select"></a>
 
+When you finish your click and drag selection of the screen, Media Encoder will reappear and show you the coordinates you selected. If you like the selection that you made you can now click *next*, otherwise you can try the screen selection again.
 
 
 
