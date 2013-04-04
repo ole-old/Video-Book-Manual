@@ -42,6 +42,8 @@ Now it's time to choose the quality of the video book you will record.  Higher q
 
 
 
+
+
 # 4 - Save the screen recording
 
 # 5 - Save your video book in a format others can open
