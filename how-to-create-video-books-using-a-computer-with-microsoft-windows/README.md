@@ -37,7 +37,9 @@ Now it's time to choose the quality of the video book you will record.  Higher q
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618857589/" title="video-quality-setting by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8114/8618857589_2b091af16c.jpg" width="500" height="387" alt="video-quality-setting"></a>
 
+Now Media Encoder will ask you to fill out some meta information about this Video Book. Some video players will display this information along side the video.  Click next when you have filled out the form.
 
+<a href="http://www.flickr.com/photos/64516474@N05/8618865283/" title="meta-info by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8543/8618865283_e24ee91486.jpg" width="500" height="386" alt="meta-info"></a>
 
 
 
