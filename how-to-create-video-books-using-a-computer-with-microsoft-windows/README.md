@@ -23,14 +23,10 @@ The Media Encoder program will vanish and you will be alllowed to click and drag
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619896934/" title="click-and-drag-to-select by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8246/8619896934_2eef665e6c.jpg" width="500" height="375" alt="click-and-drag-to-select"></a>
 
-When you finish your click and drag selection of the screen, Media Encoder will reappear and show you the coordinates you selected. If you like the selection that you made you can now click *next*, otherwise you can try the screen selection again.
+When you finish your click and drag selection of the screen, Media Encoder will reappear and show you the coordinates you selected. Don't forget to check *Capture audio from default device* as to make sure the screen recording will record your voice during recording. Now you can click *Next*.
 
-<a href="http://www.flickr.com/photos/64516474@N05/8619804020/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8253/8619804020_034262520d.jpg" width="500" height="387" alt="coordinates-acquired"></a>
 
-Don't forget to check *Capture audio from default device* as to make sure the screen recording will record your voice during recording. Now you can click *Next*.
-
-<a href="http://www.flickr.com/photos/64516474@N05/8619761924/" title="capture-audio by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8531/8619761924_77a37d1dac.jpg" width="500" height="394" alt="capture-audio"></a>
-
+<a href="http://www.flickr.com/photos/64516474@N05/8619912574/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8391/8619912574_521c4baed7.jpg" width="500" height="391" alt="coordinates-acquired"></a>
 
 Now it's time to choose a name for the file that your Video Book will be known as.
 In the example below I've chosen to name the file *Kevins-Birthday-Book.wmv* and it will be save to my *Desktop* when the recording is finished. Click *next* to proceed when you are satisfied with your file name.
