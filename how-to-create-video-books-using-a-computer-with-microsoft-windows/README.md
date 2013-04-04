@@ -7,7 +7,7 @@ When the download has finished, double click the installer and follow the instru
 # 2 - Pick a PDF, group of images, or presentation and open it on your screen
 When opening a book to view, probably want to fit the pages so they fill the maximum amount of screen space. In Adobe Reader you can do this by going to *View -> Zoom -> Fit Page*
 
-<a href="http://www.flickr.com/photos/64516474@N05/8619733788/" title="fit-the-whole-page by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8389/8619733788_91dbea567d.jpg" width="500" height="361" alt="fit-the-whole-page"></a>
+<a href="http://www.flickr.com/photos/64516474@N05/8618769997/" title="fit-the-whole-page by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8540/8618769997_3cf6243239.jpg" width="500" height="375" alt="fit-the-whole-page"></a>
 
 # 3 - Start a new screen recording
 
@@ -40,7 +40,7 @@ In the example below I've chosen to name the file *Kevins-Birthday-Book.wmv* and
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618706779/" title="file-name by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8123/8618706779_6d5c36f6c1.jpg" width="500" height="392" alt="file-name"></a>
 
-
+Now it's time to choose the quality of the video book you will record.  Higher quality takes up more space on the disk but the text is more readable while lower quality video takes up less space on the disk but small text can be hard to read.  You will have to make a judgement call on which video quality setting is right for your video book.  I
 
 
 
