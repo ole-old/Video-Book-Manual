@@ -40,6 +40,11 @@ When you finish your click and drag selection of the screen, Media Encoder will 
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619804020/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8253/8619804020_034262520d.jpg" width="500" height="387" alt="coordinates-acquired"></a>
 
+Now it's time to choose a name for the file that your Video Book will be known as.  In the example below I've chosen to name the file *Kevins-Birthday-Book.wmv* and it will be save to my *Desktop* when the recording is finished.
+
+<a href="http://www.flickr.com/photos/64516474@N05/8618706779/" title="file-name by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8123/8618706779_6d5c36f6c1.jpg" width="500" height="392" alt="file-name"></a>
+
+
 
 
 
