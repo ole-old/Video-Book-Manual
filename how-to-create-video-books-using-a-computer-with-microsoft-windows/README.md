@@ -9,7 +9,9 @@ When opening a book to view, probably want to fit the pages so they fill the max
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618769997/" title="fit-the-whole-page by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8540/8618769997_3cf6243239.jpg" width="500" height="375" alt="fit-the-whole-page"></a>
 
-# 3 - Start a new screen recording
+# 3 - Create the Video Book Recording with Microsoft Windows Media Encoder
+
+I recommend doing the following instructions twice so that you may give yourself a test run to make sure you are selecting the appropriate settings. It would be a bummer to read a whole book to find out the Microphone on your computer wasn't turned on :-).  
 
 Open the Microsoft Windows Media Encoder program and select the *Capture screen* option.
 
@@ -47,11 +49,8 @@ Now it's time to record your book. Click *Begin capturing screen when I click fi
 <a href="http://www.flickr.com/photos/64516474@N05/8619978448/" title="time-to-record by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8527/8619978448_79d3e45626.jpg" width="500" height="388" alt="time-to-record"></a>
 
 
-When you are done recording, navigate back to Windows Media Encoder and click *Stop recording*.
+When you are done recording, navigate back to Windows Media Encoder and click *Stop recording*.  
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618882053/" title="stop-recording by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8264/8618882053_489ab3ebbf.jpg" width="500" height="386" alt="stop-recording"></a>
 
-
-# 4 - Save the screen recording
-
-# 5 - Save your video book in a format others can open
+# 4 - Save your video book in a format others can open
