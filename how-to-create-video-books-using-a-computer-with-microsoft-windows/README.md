@@ -42,8 +42,14 @@ Now Media Encoder will ask you to fill out some meta information about this Vide
 <a href="http://www.flickr.com/photos/64516474@N05/8618865283/" title="meta-info by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8543/8618865283_e24ee91486.jpg" width="500" height="386" alt="meta-info"></a>
 
 
+Now it's time to record your book. Click *Begin capturing screen when I click finish* and then click "Finish". Windows Media Encoder will minimize and start recording the region of the screen you selected.
+
+<a href="http://www.flickr.com/photos/64516474@N05/8619978448/" title="time-to-record by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8527/8619978448_79d3e45626.jpg" width="500" height="388" alt="time-to-record"></a>
 
 
+When you are done recording, navigate back to Windows Media Encoder and click *Stop recording*.
+
+<a href="http://www.flickr.com/photos/64516474@N05/8618882053/" title="stop-recording by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8264/8618882053_489ab3ebbf.jpg" width="500" height="386" alt="stop-recording"></a>
 
 
 # 4 - Save the screen recording
