@@ -6,6 +6,7 @@ The software is called Microsoft Windows Media Encoder and it is the software we
 You can download the software by following [this link](http://www.microsoft.com/en-us/download/details.aspx?id=17792).
 Warning: do not download this software from anyone other than Microsoft as it may end up being a virus you download.
 
+When the download has finished, double click the installer and follow the instructions.
 
 # 2 - Pick a PDF, group of images, or presentation and open it on your screen
 
