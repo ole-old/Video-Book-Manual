@@ -17,15 +17,10 @@ Open the Microsoft Windows Media Encoder program and select the *Capture screen*
 
 To save on screen space and resulting data size of the Video Book, select the *Region of the screen* option.  This will allow you to only record a region of your screen that you select.
 
-<a href="http://www.flickr.com/photos/64516474@N05/8619880840/" title="region-of-the-screen by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8265/8619880840_29833b2e71.jpg" width="500" height="375" alt="region-of-the-screen"></a>
-
-Don't forget to check *Capture audio from default device* as to make sure the screen recording will record your voice during recording. Now you can click *Next*.
-
-<a href="http://www.flickr.com/photos/64516474@N05/8619761924/" title="capture-audio by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8531/8619761924_77a37d1dac.jpg" width="500" height="394" alt="capture-audio"></a>
 
 Now you're ready to select a portion of the screen for recording. Get your book's application window placed behind the Media Encoder's window and then click the  *screen region selection button* as seen in the attached screen shot.
 
-<a href="http://www.flickr.com/photos/64516474@N05/8619777516/" title="screen-region-selector by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8395/8619777516_c8754c6b9e.jpg" width="500" height="376" alt="screen-region-selector"></a>
+<a href="http://www.flickr.com/photos/64516474@N05/8619880840/" title="region-of-the-screen by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8265/8619880840_29833b2e71.jpg" width="500" height="375" alt="region-of-the-screen"></a>
 
 The Media Encoder program will vanish and you will be alllowed to click and drag on the screen to select the portion of the screen you would like to record. In screen shot below, I've selected just the portion of the screen that the book will be shown on as to not record any of the other things irrelevent to the video book, things like the sidebars and menu.
 
@@ -34,6 +29,11 @@ The Media Encoder program will vanish and you will be alllowed to click and drag
 When you finish your click and drag selection of the screen, Media Encoder will reappear and show you the coordinates you selected. If you like the selection that you made you can now click *next*, otherwise you can try the screen selection again.
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619804020/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8253/8619804020_034262520d.jpg" width="500" height="387" alt="coordinates-acquired"></a>
+
+Don't forget to check *Capture audio from default device* as to make sure the screen recording will record your voice during recording. Now you can click *Next*.
+
+<a href="http://www.flickr.com/photos/64516474@N05/8619761924/" title="capture-audio by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8531/8619761924_77a37d1dac.jpg" width="500" height="394" alt="capture-audio"></a>
+
 
 Now it's time to choose a name for the file that your Video Book will be known as.
 In the example below I've chosen to name the file *Kevins-Birthday-Book.wmv* and it will be save to my *Desktop* when the recording is finished. Click *next* to proceed when you are satisfied with your file name.
