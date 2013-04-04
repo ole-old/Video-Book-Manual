@@ -38,6 +38,9 @@ In screen shot below, I've selected just the portion of the screen that the book
 
 When you finish your click and drag selection of the screen, Media Encoder will reappear and show you the coordinates you selected. If you like the selection that you made you can now click *next*, otherwise you can try the screen selection again.
 
+<a href="http://www.flickr.com/photos/64516474@N05/8619804020/" title="coordinates-acquired by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8253/8619804020_034262520d.jpg" width="500" height="387" alt="coordinates-acquired"></a>
+
+
 
 
 
