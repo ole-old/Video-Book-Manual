@@ -17,7 +17,7 @@ Open the Microsoft Windows Media Encoder program and select the *Capture screen*
 
 To save on screen space and resulting data size of the Video Book, select the *Region of the screen* option.  This will allow you to only record a region of your screen that you select.
 
-<a href="http://www.flickr.com/photos/64516474@N05/8618642429/" title="region-of-the-screen by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8265/8618642429_cd1d03c83c.jpg" width="500" height="386" alt="region-of-the-screen"></a>
+<a href="http://www.flickr.com/photos/64516474@N05/8619880840/" title="region-of-the-screen by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8265/8619880840_29833b2e71.jpg" width="500" height="375" alt="region-of-the-screen"></a>
 
 Don't forget to check *Capture audio from default device* as to make sure the screen recording will record your voice during recording. Now you can click *Next*.
 
