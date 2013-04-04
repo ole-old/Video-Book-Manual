@@ -27,6 +27,12 @@ Now you can click *Next*.
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619761924/" title="capture-audio by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8531/8619761924_77a37d1dac.jpg" width="500" height="394" alt="capture-audio"></a>
 
+Now you're ready to select a portion of the screen for recording. Get your book's application window placed behind the Media Encoder's window and then click the  *screen region selection button* as seen in the attached screen shot.
+
+<a href="http://www.flickr.com/photos/64516474@N05/8619777516/" title="screen-region-selector by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8395/8619777516_c8754c6b9e.jpg" width="500" height="376" alt="screen-region-selector"></a>
+
+
+
 # 4 - Save the screen recording
 
 # 5 - Save your video book in a format others can open
