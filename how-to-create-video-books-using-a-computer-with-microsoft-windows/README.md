@@ -31,9 +31,12 @@ Now you're ready to select a portion of the screen for recording. Get your book'
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619777516/" title="screen-region-selector by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8395/8619777516_c8754c6b9e.jpg" width="500" height="376" alt="screen-region-selector"></a>
 
-The Media Encoder program will vanish and you will be alllowed to click and drag on the screen to select the portion of the screen you would like to record. In screen shot below, I've selected just the portion of the screen that the book will be shown on as to not record any of the other things irrelevent to the video book, things like the sidebars and menu.
+The Media Encoder program will vanish and you will be alllowed to click and drag on the screen to select the portion of the screen you would like to record. 
+In screen shot below, I've selected just the portion of the screen that the book will be shown on as to not record any of the other things irrelevent to the video book, things like the sidebars and menu.
 
 <a href="http://www.flickr.com/photos/64516474@N05/8619794914/" title="click-and-drag-to-select by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8394/8619794914_9617294054.jpg" width="500" height="375" alt="click-and-drag-to-select"></a>
+
+
 
 
 
