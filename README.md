@@ -4,8 +4,9 @@ Inspired by Sal Khan's chapter on "No-Frills Videos" in his book [One World Scho
 
 *If you are interested in education and computing in offline locations, join the [collaborative email listserv on Ground Computing for Education](https://groups.google.com/forum/?fromgroups#!forum/groundcomputing).*
 
+
 ## Guides to producing Video Books
-- [Creating Video Books using a computer with Microsoft Windows](creating-video-books-using-a-computer-with-microsoft-windows)
+- [How to create Video Books using a computer with Microsoft Windows](how-to-create-video-books-using-a-computer-with-microsoft-windows)
 - [Accesories for enhancing your Video Book production](accesories-for-enhancing-your-video-book-production)
 
 
