@@ -6,4 +6,4 @@ Video books cost little to produce and requires very little knowledge of compute
 - [The economics of when to use video for lectures](the-economics-of-when-to-use-video-for-lectures)
 
 ## How to produce Video Books
-- [Creating Video Books using a computer with Microsoft Windows](creating-video-books-using-a-computer-with-microsoft-windows)
+- [How to create Video Books using a computer with Microsoft Windows](how-to-create-video-books-using-a-computer-with-microsoft-windows)
