@@ -7,4 +7,3 @@ Video books cost little to produce and requires very little knowledge of compute
 
 ## How to produce Video Books
 - [Creating Video Books using a computer with Microsoft Windows](creating-video-books-using-a-computer-with-microsoft-windows)
-
