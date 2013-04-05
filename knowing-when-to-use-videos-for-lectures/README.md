@@ -1,4 +1,4 @@
-# The economics of when to use Video for Lectures
+# How to know when videos should be used for lectures
 
 Video for lectures is most valuable for lectures that are passive where there is little participation from the student.  In these types of lectures, students receive more value for their time in the classroom by watching a video and maximizing the time spent with a teacher's attention focused on activities. 
 
