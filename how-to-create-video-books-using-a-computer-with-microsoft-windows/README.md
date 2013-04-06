@@ -9,7 +9,15 @@ When opening a book to view, probably want to fit the pages so they fill the max
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618769997/" title="fit-the-whole-page by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8540/8618769997_3cf6243239.jpg" width="500" height="375" alt="fit-the-whole-page"></a>
 
-# 3 - Create the Video Book Recording with Microsoft Windows Media Encoder
+# 3 - Adjust your Microphone volume
+
+<a href="http://www.flickr.com/photos/64516474@N05/8624285344/" title="open-volume-1 by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8523/8624285344_77b171ce99.jpg" width="375" height="144" alt="open-volume-1"></a>
+
+<a href="http://www.flickr.com/photos/64516474@N05/8623182421/" title="open-volume-2 by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8524/8623182421_588c4842e7.jpg" width="470" height="487" alt="open-volume-2"></a>
+
+<a href="http://www.flickr.com/photos/64516474@N05/8623182371/" title="open-volume-3 by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8108/8623182371_8a9f6d8366.jpg" width="419" height="500" alt="open-volume-3"></a>
+
+# 4 - Create the Video Book Recording with Microsoft Windows Media Encoder
 
 I recommend doing the following instructions twice so that you may give yourself a test run to make sure you are selecting the appropriate settings. It would be a bummer to read a whole book to find out the Microphone on your computer wasn't turned on :-).  
 
@@ -58,4 +66,3 @@ When you are done recording, navigate back to Windows Media Encoder and click *S
 
 <a href="http://www.flickr.com/photos/64516474@N05/8618882053/" title="stop-recording by rjstatic, on Flickr"><img src="http://farm9.staticflickr.com/8264/8618882053_489ab3ebbf.jpg" width="500" height="386" alt="stop-recording"></a>
 
-# 4 - Save your video book in a format others can open
